@@ -1,4 +1,4 @@
-Modelo didático de clusterização comK-Means e DBScan para curso de Inteligência Artificial.
+Modelo didático de clusterização com K-Means e DBScan para curso de Inteligência Artificial.
 
 Código realiza download de dataset(700MB) e realiza clusterização com os dois modelos e realiza comparação entre resultados.
 
